@@ -2,6 +2,15 @@
 A github project for XAI research
 
 Markdown [Syntax](https://www.markdownguide.org/basic-syntax/#links)
+## MobileNet
+[Keras](https://keras.io/api/applications/mobilenet/)
+
+## ImageNet
+[ImageNet Object Localization Challenge](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data)
+
+Kaggle [API](https://github.com/Kaggle/kaggle-api) can be used to download the dataset
+
+About downloading the subset(e.g. only the validation [set](https://www.kaggle.com/code/fbernuy/download-validation-set) )
 
 ## Milestone
 The project will start on 16 September and end on 16 January. There will be the following milestones and
