@@ -1,6 +1,6 @@
 # ImageNet Downloader
 
-## Attention: It's benn 2 years, for mw it doesn't work...
+## Attention: It's been 2 years, for me it doesn't work...
 
 This is ImageNet dataset downloader. **You can create new datasets from subsets of ImageNet by specifying how many 
 classes you need and how many images per class you need.** 
