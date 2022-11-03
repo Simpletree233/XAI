@@ -6,11 +6,14 @@ Markdown [Syntax](https://www.markdownguide.org/basic-syntax/#links)
 [Keras](https://keras.io/api/applications/mobilenet/)
 
 ## ImageNet
+
 [ImageNet Object Localization Challenge](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data)
 
-Kaggle [API](https://github.com/Kaggle/kaggle-api) can be used to download the dataset
+Kaggle [API](https://github.com/Kaggle/kaggle-api)
 
-About downloading the subset(e.g. only the validation [set](https://www.kaggle.com/code/fbernuy/download-validation-set) )
+only the validation [set](https://www.kaggle.com/code/fbernuy/download-validation-set) 
+
+**So in the end I just downloaded this [Imagenette](https://s3.amazonaws.com/fast-ai-imageclas/imagenette2-320.tgz) lol**
 
 ## Milestone
 The project will start on 16 September and end on 16 January. There will be the following milestones and
