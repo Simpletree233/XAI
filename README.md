@@ -16,12 +16,7 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 **So in the end I just downloaded this [Imagenette](https://s3.amazonaws.com/fast-ai-imageclas/imagenette2-320.tgz) lol**
 
 ## Milestone
-The project will start on 16 September and end on 16 January. There will be the following milestones and
-deliverables:
 
-- 14 October: prepare the data set and the model. The image data will be saved in a CSV file with the
-ground truth value. Data collection, model preparation and development of the interpretable model
-will proceed in parallel.
 - 17 October: build the environment in Python 3.9, testbed, and implement the XAI technique (LIME)
 for the next stage.
 - 28 October: first approach, conduct experiments to collect useful knowledge.
