@@ -29,3 +29,17 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 - 16 December: final presentation.
 - 23 December: possible peer feedback and improvement in written report.
 - 16 January: finish the final report, which will be written in parallel during the above steps.
+
+## Tasks
+1. Find neibourhood paramters, determine which set of parameters affect most of the predictions // refers to LIME paras
+1. Need some metrics, make more accurate(prob increase some top-1 prediction probabilities)
+1. read the LIME documentation
+1. More literatures about LIME research
+    1. Explaining the [explainer](http://proceedings.mlr.press/v108/garreau20a/garreau20a.pdf)
+1. Determine the parameters we are going to use in the experiments
+1. develop a *pipeline*...kinda hard
+1. Do some experiments, automate the process
+
+## Ideas for final reports
+1. Less than 12 pages
+1. Early bird, early draft
