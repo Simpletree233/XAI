@@ -40,6 +40,12 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 1. develop a *pipeline*...kinda hard
 1. Do some experiments, automate the process
 
+## Pipeline
+1. select params for LIME, image (contrast, blur...)
+1. predict all images in a floder
+1. save the result explainations, compare and analyze (e.g. overlay all the explainations to see the results)
+1. repeat step 1
+
 ## Ideas for final reports
 1. Less than 12 pages
 1. Early bird, early draft
