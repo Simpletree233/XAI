@@ -35,6 +35,7 @@ model = MobileNetV3Large(
     classifier_activation="softmax",
     include_preprocessing=True,
 )  
+#model.save('MobileNet.h5')
 
 ## Load a test image and predict it with pre-trained MobileNetV3Large
 img_path = '1.JPG'  
