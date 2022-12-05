@@ -20,8 +20,6 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 
 ## Milestone
 
-- 28 October: first approach, think of some interesting experiments
-- 4 November: conduct experiments with possible tutor feedback.
 - 11 November: analyze and improve the experimentation for better generalization.
 - 28 November: final experiments and results.
 
@@ -45,6 +43,7 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 1. predict all images in a floder
 1. save the result explainations, compare and analyze (e.g. overlay all the explainations to see the results)
 1. repeat step 1
+1. metrics for LIME performance (OpenXAI)
 
 ## Ideas for final reports
 1. Less than 12 pages
