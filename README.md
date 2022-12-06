@@ -37,8 +37,13 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 1. Determine the parameters we are going to use in the experiments
 1. develop a *pipeline*...kinda hard
 1. Do some experiments, automate the process
+> Benchmarking the explaination method
+> Using [OpenXAI](https://open-xai.github.io/)  
+> (LIME, SHAP, Vanilla Gradients, Gradient x Input, SmoothGrad, and Integrated Gradients)
+> 
+> **Note: In OPenXAI there are lots of metrics for explainer evaluation**
 
-## Pipeline
+## Pipeline (Which will be replaced by OpenXAI API mentioned above)
 1. select params for LIME, image (contrast, blur...)
 1. predict all images in a floder
 1. save the result explainations, compare and analyze (e.g. overlay all the explainations to see the results)
