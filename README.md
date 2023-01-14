@@ -16,6 +16,8 @@ The results of this work highlight the importance of considering
 both accuracy and explainability when selecting and applying image augmentation techniques in image
 classification task
 
+## How to run
+download XAI folder and run `Prediction.ipynb` in google colab
 
 ## LIME [Repo](https://github.com/marcotcr/lime)
 pip install lime
