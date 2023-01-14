@@ -1,7 +1,22 @@
 # Explainable AI
-A github project for XAI research
+A github project for XAI research: XAI in image classification
 
-Markdown [Syntax](https://www.markdownguide.org/basic-syntax/#links)
+Author: Fernando, Yuyang
+
+# Introduction
+In this project, we applied the LIME
+technique to explain a general-purpose, multi-class model called MobileNet in an effort to improve both
+performance metrics and explainability. 
+While the model’s accuracy was not improved, it was possible 
+to increase the explainability of an augmented subset of the ImageNet dataset by the use of impact score.
+
+This finding highlights the trade-off between accuracy and explainability that exists in XAI research area
+and suggests that further XAI optimization method is necessary in order to improve both measures.
+The results of this work highlight the importance of considering
+both accuracy and explainability when selecting and applying image augmentation techniques in image
+classification task
+
+
 ## LIME [Repo](https://github.com/marcotcr/lime)
 pip install lime
 
@@ -43,13 +58,10 @@ only the validation [set](https://www.kaggle.com/code/fbernuy/download-validatio
 > 
 > **Note: In OPenXAI there are lots of metrics for explainer evaluation**
 
-## Pipeline (Which will be replaced by OpenXAI API mentioned above)
+## Pipeline (Optional: Which will be replaced by OpenXAI API mentioned above)
 1. select params for LIME, image (contrast, blur...)
 1. predict all images in a floder
 1. save the result explainations, compare and analyze (e.g. overlay all the explainations to see the results)
 1. repeat step 1
 1. metrics for LIME performance (OpenXAI)
 
-## Ideas for final reports
-1. Less than 12 pages
-1. Early bird, early draft
